@@ -1,0 +1,19 @@
+{
+  "name": "boilerplate-grunt-npm",
+  "version": "0.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-csslint": "^0.5.0",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-uglify": "~0.9.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-htmllint": "^0.2.7",
+    "grunt-modernizr": "^1.0.0",
+    "grunt-sass": "~0.18.1"
+  }
+}

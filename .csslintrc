@@ -1,0 +1,16 @@
+{
+  // Documentation - https://github.com/gruntjs/grunt-contrib-csslint
+  // I find these rules a bit controversial or overbearing
+  "universal-selector": false,
+  "qualified-headings": false,
+  "overqualified-elements": false,
+  "unqualified-attributes": false,
+  "unique-headings":false,
+  "floats":false,
+  "font-faces":false,
+  "box-model": false,
+
+  // IE6-7 Specific
+  "adjoining-classes": false,
+  "box-sizing": false
+}
